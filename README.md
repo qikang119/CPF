@@ -1,1 +1,1 @@
-# CottonStand_CenterNet
+# ChongCao_CenterNet
