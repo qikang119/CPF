@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cpf pics train</folder>
+	<filename>013.jpg</filename>
+	<path>/Users/qikang/Downloads/caterpillar fungus project/cpf pics train/013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cpf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1197</xmin>
+			<ymin>1954</ymin>
+			<xmax>1274</xmax>
+			<ymax>2248</ymax>
+		</bndbox>
+	</object>
+</annotation>

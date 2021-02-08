@@ -1,7 +1,7 @@
-<annotation verified="yes">
-	<folder>training</folder>
+<annotation>
+	<folder>cpf pics train</folder>
 	<filename>089.jpg</filename>
-	<path>E:\Projects\Dongchongxiacao\training\089.jpg</path>
+	<path>/Users/qikang/Downloads/caterpillar fungus project/cpf pics train/089.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,39 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Chongcao</name>
+		<name>cpf</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>416</xmin>
+			<xmin>410</xmin>
+			<ymin>248</ymin>
+			<xmax>531</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cpf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>241</ymin>
+			<xmax>588</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cpf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
 			<ymin>252</ymin>
-			<xmax>524</xmax>
-			<ymax>569</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Chongcao</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>471</xmin>
-			<ymin>246</ymin>
-			<xmax>586</xmax>
-			<ymax>553</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Chongcao</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>588</xmin>
-			<ymin>255</ymin>
-			<xmax>744</xmax>
-			<ymax>547</ymax>
+			<xmax>752</xmax>
+			<ymax>579</ymax>
 		</bndbox>
 	</object>
 </annotation>

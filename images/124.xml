@@ -1,7 +1,7 @@
-<annotation verified="yes">
-	<folder>training</folder>
+<annotation>
+	<folder>cpf pics train</folder>
 	<filename>124.jpg</filename>
-	<path>E:\Projects\Dongchongxiacao\training\124.jpg</path>
+	<path>/Users/qikang/Downloads/caterpillar fungus project/cpf pics train/124.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,14 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Chongcao</name>
+		<name>cpf</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>303</xmin>
-			<ymin>835</ymin>
-			<xmax>441</xmax>
+			<ymin>837</ymin>
+			<xmax>449</xmax>
 			<ymax>978</ymax>
 		</bndbox>
 	</object>
